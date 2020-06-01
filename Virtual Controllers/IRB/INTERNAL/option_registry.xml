@@ -1,0 +1,6 @@
+<?xml version = "1.0" encoding="utf-8" ?>
+<option_registry xmlns="urn:abb-robotics-registry-option">
+<entry option="gtpuSDK" path="C:/Users/jdrdz/AppData/Local/ABB/RobotWare/RobotWare_6.10.2033/options/gtpusdk"/>
+<entry option="iv_gui" path="C:/Users/jdrdz/AppData/Local/ABB/RobotWare/RobotWare_6.10.2033/options/iv"/>
+<entry option="yumi_absacc_recovery" path="C:/Users/jdrdz/AppData/Local/ABB/RobotWare/RobotWare_6.10.2033/options/yumi_absacc_recovery"/>
+</option_registry>
